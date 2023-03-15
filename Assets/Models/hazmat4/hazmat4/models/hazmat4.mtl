@@ -1,0 +1,48 @@
+# Blender MTL File: 'hazmat4.blend'
+# Material Count: 4
+
+newmtl boots.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\virginator2.0\\Documents\\Projects\\Blenderfiles\\Textures\\other\\hazmat3\\hazmat4_boots_BaseColor.png
+refl C:\\Users\\virginator2.0\\Documents\\Projects\\Blenderfiles\\Textures\\other\\hazmat3\\hazmat4_boots_Metallic.png
+
+newmtl gloves.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.185991 0.249956 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\virginator2.0\\Documents\\Projects\\Blenderfiles\\Textures\\other\\hazmat3\\hazmat4_gloves_BaseColor.png
+refl C:\\Users\\virginator2.0\\Documents\\Projects\\Blenderfiles\\Textures\\other\\hazmat3\\hazmat4_gloves_Metallic.png
+
+newmtl suitmain.003
+Ns 354.308383
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.673547 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\virginator2.0\\Documents\\Projects\\Blenderfiles\\Textures\\other\\hazmat3\\hazmat4_suitmain_BaseColor.png
+
+newmtl visor.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.941775
+illum 9
+map_Kd C:\\Users\\virginator2.0\\Documents\\Projects\\Blenderfiles\\Textures\\other\\hazmat3\\hazmat4_visor_BaseColor.png
